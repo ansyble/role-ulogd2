@@ -1,0 +1,4 @@
+---
+ulogd2_loglevel: 3
+ulogd2_json_file: /var/log/ulog/ulogd.json
+ulogd2_json_device_name: elastic
