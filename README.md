@@ -1,7 +1,7 @@
 [ ![Image](https://cloud.githubusercontent.com/assets/5514990/24834935/e0d1db04-1d1c-11e7-8ad0-53fd45ff13c3.png "Ansible") ](https://www.ansible.com/ "Ansible")
 
 [![Build Status](https://travis-ci.org/ansyble/role-ulogd2.svg?branch=master)](https://travis-ci.org/ansyble/role-ulogd2)
-[![Ansible Role](https://img.shields.io/ansible/role/xxx.svg)](https://galaxy.ansible.com/ansyble/ulogd2/)
+[![Ansible Role](https://img.shields.io/ansible/role/17111.svg)](https://galaxy.ansible.com/ansyble/ulogd2/)
 
 [Ansible](http://www.ansible.com) role to deploy ulogd2.
 
