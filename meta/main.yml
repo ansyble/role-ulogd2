@@ -1,0 +1,24 @@
+---
+galaxy_info:
+  author: mongkok
+  company: ansyble
+  description: ulogd2 logging daemon
+  min_ansible_version: 2.0
+  license: MIT
+  platforms:
+  - name: EL
+    versions:
+    - 6
+    - 7
+  - name: Ubuntu
+    versions:
+    - all
+  - name: Debian
+    versions:
+    - all
+  galaxy_tags:
+  - netfilter
+  - iptables
+  - logging
+  - ulogd2
+  - json
