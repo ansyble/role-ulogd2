@@ -1,0 +1,7 @@
+---
+- name: packages | install dependencies
+  apt:
+    pkg: "{{ item }}"
+    state: present
+  with_items:
+    - ulogd2-json

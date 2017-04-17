@@ -1,0 +1,7 @@
+---
+- include: packages.yml
+  tags: [ulogd2, ulogd2-packages]
+
+- include: config.yml
+  tags: [ulogd2, ulogd2-config]
+
