@@ -1,0 +1,7 @@
+---
+- name: config | configuration file
+  template:
+    src: conf.j2
+    dest: /etc/ulogd.conf
+  notify:
+    - restart ulogd2
