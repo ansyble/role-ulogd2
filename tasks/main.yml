@@ -1,7 +1,7 @@
 ---
-- include: packages.yml
+- import_tasks: packages.yml
   tags: [ulogd2, ulogd2-packages]
 
-- include: config.yml
+- import_tasks: config.yml
   tags: [ulogd2, ulogd2-config]
 
